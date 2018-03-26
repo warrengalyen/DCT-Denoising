@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DCT_Denoising", "DCT_Denoising\DCT_Denoising.vcxproj", "{F5BA07C9-709E-4A21-9B43-043F71341A9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample", "Sample\Sample.csproj", "{FE87C0BD-16EB-4650-8D19-EFB0844F754C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5BA07C9-709E-4A21-9B43-043F71341A9C}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
+		{F5BA07C9-709E-4A21-9B43-043F71341A9C}.Debug|x64.ActiveCfg = Debug|Win32
+		{F5BA07C9-709E-4A21-9B43-043F71341A9C}.Debug|x86.ActiveCfg = Debug|Win32
+		{F5BA07C9-709E-4A21-9B43-043F71341A9C}.Debug|x86.Build.0 = Debug|Win32
+		{F5BA07C9-709E-4A21-9B43-043F71341A9C}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{F5BA07C9-709E-4A21-9B43-043F71341A9C}.Release|Mixed Platforms.Build.0 = Release|Win32
+		{F5BA07C9-709E-4A21-9B43-043F71341A9C}.Release|x64.ActiveCfg = Release|Win32
+		{F5BA07C9-709E-4A21-9B43-043F71341A9C}.Release|x86.ActiveCfg = Release|Win32
+		{F5BA07C9-709E-4A21-9B43-043F71341A9C}.Release|x86.Build.0 = Release|Win32
+		{FE87C0BD-16EB-4650-8D19-EFB0844F754C}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{FE87C0BD-16EB-4650-8D19-EFB0844F754C}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{FE87C0BD-16EB-4650-8D19-EFB0844F754C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{FE87C0BD-16EB-4650-8D19-EFB0844F754C}.Debug|x64.Build.0 = Debug|Any CPU
+		{FE87C0BD-16EB-4650-8D19-EFB0844F754C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{FE87C0BD-16EB-4650-8D19-EFB0844F754C}.Debug|x86.Build.0 = Debug|Any CPU
+		{FE87C0BD-16EB-4650-8D19-EFB0844F754C}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{FE87C0BD-16EB-4650-8D19-EFB0844F754C}.Release|Mixed Platforms.Build.0 = Release|x86
+		{FE87C0BD-16EB-4650-8D19-EFB0844F754C}.Release|x64.ActiveCfg = Release|Any CPU
+		{FE87C0BD-16EB-4650-8D19-EFB0844F754C}.Release|x64.Build.0 = Release|Any CPU
+		{FE87C0BD-16EB-4650-8D19-EFB0844F754C}.Release|x86.ActiveCfg = Release|x86
+		{FE87C0BD-16EB-4650-8D19-EFB0844F754C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {856048D0-C0A8-4ABE-BB31-55922223F909}
+	EndGlobalSection
+EndGlobal

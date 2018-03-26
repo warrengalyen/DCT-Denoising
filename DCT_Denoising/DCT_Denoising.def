@@ -1,0 +1,4 @@
+LIBRARY DCT_Denoising
+EXPORTS 
+DCT_Denoising  @1
+
